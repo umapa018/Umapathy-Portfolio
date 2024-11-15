@@ -518,6 +518,7 @@ table p:hover{
 }
 
 .skills {
+    margin-top: 60px;
     display: flex;
     flex-wrap: wrap;
     gap: 60px; 
